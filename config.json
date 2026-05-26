@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerptringify",
+        "uuid": 5954412,
+        "checksum": "dhw78"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
